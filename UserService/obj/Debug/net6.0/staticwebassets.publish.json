@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "ySSSTUwyJuPL6MJW4bUoVVMaUmOJxolUZcuK2wGL5rk=",
+  "Source": "UserService",
+  "BasePath": "_content/UserService",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "/Users/ronnihansen/Desktop/softwareudvikling/system_integration/opgaver/hand_in/PostService/PostService.csproj",
+      "Version": 2,
+      "Source": "PostService",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
